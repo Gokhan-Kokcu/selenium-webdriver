@@ -1,0 +1,18 @@
+2021-04-16 11:24:31.974 [main] DEBUG utilities.Log4j - Test is Starting...
+2021-04-16 11:24:34.874 [main] DEBUG utilities.Log4j - Opening Page : https://www.gittigidiyor.com/
+2021-04-16 11:24:36.807 [main] DEBUG utilities.Log4j - Login Page : https://www.gittigidiyor.com/uye-girisi
+2021-04-16 11:24:36.970 [main] DEBUG utilities.Log4j - Email : tempmailforproject@gmail.com
+2021-04-16 11:24:37.119 [main] DEBUG utilities.Log4j - Password : 123456deneme
+2021-04-16 11:24:39.375 [main] DEBUG utilities.Log4j - Logged in successfull
+2021-04-16 11:24:39.729 [main] DEBUG utilities.Log4j - Searching
+2021-04-16 11:24:43.520 [main] DEBUG utilities.Log4j - Searched successfull 
+2021-04-16 11:24:46.231 [main] DEBUG utilities.Log4j - Go to 2nd page
+2021-04-16 11:24:48.366 [main] DEBUG utilities.Log4j - Go to product detail
+2021-04-16 11:24:48.664 [main] DEBUG utilities.Log4j - Added basket successfull
+2021-04-16 11:24:48.717 [main] DEBUG utilities.Log4j - product detail price: 8.031,00 TL
+2021-04-16 11:24:49.427 [main] DEBUG utilities.Log4j - Go to basket: https://www.gittigidiyor.com/sepetim
+2021-04-16 11:24:49.555 [main] DEBUG utilities.Log4j - Basket detail price: 8.031,00 TL
+2021-04-16 11:24:49.555 [main] DEBUG utilities.Log4j - Prices are equal
+2021-04-16 11:24:49.881 [main] DEBUG utilities.Log4j - Increase amount
+2021-04-16 11:24:49.983 [main] DEBUG utilities.Log4j - Delete product
+2021-04-16 11:24:49.983 [main] DEBUG utilities.Log4j - Test is Ending...
