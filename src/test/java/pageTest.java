@@ -16,13 +16,13 @@ public class pageTest {
     Actions action;
     public static TestModel testModelPage;
     protected static String url = "https://www.gittigidiyor.com/";
-    public static String email = "tempmailforproject@gmail.com";
-    public static String userPassword = "123456deneme";
+    public static String email = "Enter Mail";
+    public static String userPassword = "Enter Pass";
 
 
     @Before
     public void setUp() {
-        System.setProperty("webdriver.chrome.driver", "C:/Users/Gkhn/IdeaProjects/selenium-webdriver/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         testModelPage = new TestModel(driver);
